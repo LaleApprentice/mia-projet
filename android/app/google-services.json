@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123943631554",
+    "project_id": "miaf-27ae7",
+    "storage_bucket": "miaf-27ae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123943631554:android:c8a56644d7cf61c752995b",
+        "android_client_info": {
+          "package_name": "com.example.flutterfbauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123943631554-tef0a4tk7qqv3vneasq1mqd9hlh950sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH59jgGSEFQjhykT6nfYv7Ckz6BGg1CG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123943631554-tef0a4tk7qqv3vneasq1mqd9hlh950sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

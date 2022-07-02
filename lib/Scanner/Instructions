@@ -7,7 +7,7 @@ Add these two in dependencies:
 image_picker: ^0.8.5+3
 simple_animations: ^1.3.3
 
-And this in "assets": 
+And this in "assets": (still in the yaml file) 
     - lib/images/
 
   

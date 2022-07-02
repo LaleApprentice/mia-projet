@@ -35,7 +35,7 @@ class _HomePageState extends State<HomePage> {
     ];
     return Scaffold(
     backgroundColor:Colors.lightGreen,
-
+  extendBody:true,
       body: screens[index],
 
 bottomNavigationBar: CurvedNavigationBar(

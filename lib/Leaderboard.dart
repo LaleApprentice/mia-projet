@@ -21,7 +21,7 @@ class _ProfileState extends State<LeaderBoard> {
               padding: EdgeInsets.only(top : 40),
               height: 330,
               decoration: BoxDecoration(
-                  color: Colors.lightGreen,
+                  color: Color(0xff6c72e0),
                   borderRadius: BorderRadius.only(
                       bottomRight: Radius.circular(20),
                       bottomLeft: Radius.circular(20))),
@@ -134,7 +134,7 @@ class _ProfileState extends State<LeaderBoard> {
                             "${(678 / (index + 1)).toString().substring(0, 5)}",style: TextStyle(fontWeight: FontWeight.bold)),
                       );
                     },
-                    separatorBuilder: (context, index) => Divider(thickness: 1,color: Colors.lightGreen,indent: 10,endIndent: 10,),
+                    separatorBuilder: (context, index) => Divider(thickness: 1,color: Color(0xff6c72e0),indent: 10,endIndent: 10,),
                     itemCount: 6),
               ),
             )

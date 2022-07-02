@@ -1,3 +1,15 @@
+Put the dart files into lib as normal 
 put the images in a new folder you create and call "images" 
 Do not change the name of the iamges otherwise it won't work. 
+
+Add these two in dependencies: 
+
+image_picker: ^0.8.5+3
+simple_animations: ^1.3.3
+
+And this in "assets": 
+    - lib/images/
+
+  
+  
 You read you mamia's left buttcheek  
